@@ -1,7 +1,7 @@
 {
   "web": {
     "version": "1.0.2",
-    "url": "https://github.com/user-attachments/files/33474533/www-1.0.2.zip",
+    "url": "https://github.com/xmigue15/mis-finanzas-ap-actualizaciones/releases/download/web-1.0.2/www-1.0.2.zip",
     "minApk": 1,
     "notes": "Se elimino el contorno azul de los botones",
     "required": false
