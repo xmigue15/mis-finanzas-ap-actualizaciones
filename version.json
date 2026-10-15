@@ -4,16 +4,16 @@
   "url": "https://raw.githubusercontent.com/xmigue15/mis-finanzas-ap-actualizaciones/main/www-1.0.4.zip",
   "sha256": "f21f03ff0f73e04a41f578cd3dce10de273afbf5ece0e6ef7c445fb5a87d8223",
   "minApk": 1,
-  "notes": "Probando actualización.",
+  "notes": "",
   "required": false
 },
   "apk": {
-  "versionCode": 3,
-  "versionName": "1.0.2",
-  "url": "https://github.com/xmigue15/mis-finanzas-ap-actualizaciones/releases/download/Apk-1.0.2/mis-finanzas.apk",
-  "sha256": "c7972d22ba12dcc889d164f1b7b00d0d779ace39c7ed2a3fb7987195c762b49c",
+  "versionCode": 4,
+  "versionName": "1.0.3",
+  "url": "https://github.com/xmigue15/mis-finanzas-ap-actualizaciones/releases/download/Apk-1.0.3/mis-finanzas.apk",
+  "sha256": "1fe95b0bb42235450aabb395b35875cdc41389dc84cfbaeaf35f8ddd762e441e",
   "sizeMB": 7,
-  "notes": "Prueba de actualización de APK.",
+  "notes": "Se corrigio la pantalla de carga",
   "required": false
 }
 }
