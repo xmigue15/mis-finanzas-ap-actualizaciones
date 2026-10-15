@@ -8,12 +8,12 @@
   "required": false
 },
   "apk": {
-    "versionCode": 1,
-    "versionName": "1.0",
-    "url": "https://github.com/TU-USUARIO/mis-finanzas-updates/releases/download/apk-1.0/mis-finanzas.apk",
-    "sha256": "",
-    "sizeMB": 8,
-    "notes": "",
-    "required": false
-  }
+  "versionCode": 3,
+  "versionName": "1.0.2",
+  "url": "https://github.com/xmigue15/mis-finanzas-ap-actualizaciones/releases/download/Apk-1.0.2/mis-finanzas.apk",
+  "sha256": "c7972d22ba12dcc889d164f1b7b00d0d779ace39c7ed2a3fb7987195c762b49c",
+  "sizeMB": 7,
+  "notes": "Prueba de actualización de APK.",
+  "required": false
+}
 }
