@@ -1,0 +1,18 @@
+{
+  "web": {
+    "version": "1.0.1",
+    "url": "https://github.com/TU-USUARIO/mis-finanzas-updates/releases/download/web-1.0.1/www-1.0.1.zip",
+    "minApk": 1,
+    "notes": "Mejoras en el buscador y correcciones.",
+    "required": false
+  },
+  "apk": {
+    "versionCode": 1,
+    "versionName": "1.0",
+    "url": "https://github.com/TU-USUARIO/mis-finanzas-updates/releases/download/apk-1.0/mis-finanzas.apk",
+    "sha256": "",
+    "sizeMB": 8,
+    "notes": "",
+    "required": false
+  }
+}
