@@ -1,9 +1,9 @@
 {
   "web": {
     "version": "1.0.1",
-    "url": "https://github.com/TU-USUARIO/mis-finanzas-updates/releases/download/web-1.0.1/www-1.0.1.zip",
+    "url": "https://github.com/user-attachments/files/33474018/www-1.0.1.zip",
     "minApk": 1,
-    "notes": "Mejoras en el buscador y correcciones.",
+    "notes": "Ahora al eliminar un movimiento aparece una ventana para confirmar.",
     "required": false
   },
   "apk": {
