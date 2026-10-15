@@ -1,9 +1,9 @@
 {
   "web": {
-    "version": "1.0.1",
-    "url": "https://github.com/user-attachments/files/33474018/www-1.0.1.zip",
+    "version": "1.0.2",
+    "url": "https://github.com/user-attachments/files/33474533/www-1.0.2.zip",
     "minApk": 1,
-    "notes": "Ahora al eliminar un movimiento aparece una ventana para confirmar.",
+    "notes": "Se elimino el contorno azul de los botones",
     "required": false
   },
   "apk": {
